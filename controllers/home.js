@@ -1,5 +1,4 @@
 var qs = require('querystring');
-var AM = require('../modals/account_manager');
 module.exports.controller = function(app) {
 
 /**
